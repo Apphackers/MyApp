@@ -1,6 +1,6 @@
 /**
  * @file main.cpp
- *
+ *Virkede det her?
  * This template application shows how to extend the functionality
  * in HTML5/JS with custom code written in C++. See code below
  * for custom code added in methods handleMessageStreamJSON()

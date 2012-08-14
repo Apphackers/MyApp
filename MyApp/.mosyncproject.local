@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="1.4">
 <active.build.cfg active="Release"/>
-<target-profile/>
+<target-profile device="2.x" vendor="Android"/>
 <properties>
 <property key="privileged.access.token" value="A88A037A805EE7D79FD2D845DA7C283A"/>
 </properties>
